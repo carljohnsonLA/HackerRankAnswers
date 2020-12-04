@@ -22,5 +22,5 @@ function diagonalDifference(arr) {
 }
 
 // 3 December , 2020
-// Diagonal Diffrence
+// Diagonal Diffrence / Practive < Algorythm
 //https://www.hackerrank.com/challenges/diagonal-difference/problem?h_r=profile
