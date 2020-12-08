@@ -14,3 +14,4 @@ function kangaroo(x1, v1, x2, v2) {
 
 
 }
+//https://www.hackerrank.com/challenges/kangaroo/problem
